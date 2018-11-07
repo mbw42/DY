@@ -95,7 +95,7 @@
 		8895EF2C21912CF70090DDC0 /* DY-DEMO */ = {
 			isa = PBXGroup;
 			children = (
-				88EEA1FE21913D3F00E7122B /* Classes */,
+				88EEA205219279CF00E7122B /* Classes */,
 				8895EF2D21912CF70090DDC0 /* AppDelegate.swift */,
 				8895EF3121912CF70090DDC0 /* Main.storyboard */,
 				8895EF3421912CF90090DDC0 /* Assets.xcassets */,
@@ -123,55 +123,55 @@
 			path = "DY-DEMOUITests";
 			sourceTree = "<group>";
 		};
-		88EEA1FE21913D3F00E7122B /* Classes */ = {
+		88EEA205219279CF00E7122B /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				88EEA20421913D3F00E7122B /* Main */,
-				88EEA1FF21913D3F00E7122B /* Home */,
-				88EEA20321913D3F00E7122B /* Live */,
-				88EEA20121913D3F00E7122B /* Follow */,
-				88EEA20221913D3F00E7122B /* Profile */,
-				88EEA20021913D3F00E7122B /* Tools */,
+				88EEA206219279CF00E7122B /* Home */,
+				88EEA207219279CF00E7122B /* Tools */,
+				88EEA208219279CF00E7122B /* Follow */,
+				88EEA209219279CF00E7122B /* Profile */,
+				88EEA20A219279CF00E7122B /* Live */,
+				88EEA20B219279CF00E7122B /* Main */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
 		};
-		88EEA1FF21913D3F00E7122B /* Home */ = {
+		88EEA206219279CF00E7122B /* Home */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Home;
 			sourceTree = "<group>";
 		};
-		88EEA20021913D3F00E7122B /* Tools */ = {
+		88EEA207219279CF00E7122B /* Tools */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Tools;
 			sourceTree = "<group>";
 		};
-		88EEA20121913D3F00E7122B /* Follow */ = {
+		88EEA208219279CF00E7122B /* Follow */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Follow;
 			sourceTree = "<group>";
 		};
-		88EEA20221913D3F00E7122B /* Profile */ = {
+		88EEA209219279CF00E7122B /* Profile */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Profile;
 			sourceTree = "<group>";
 		};
-		88EEA20321913D3F00E7122B /* Live */ = {
+		88EEA20A219279CF00E7122B /* Live */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Live;
 			sourceTree = "<group>";
 		};
-		88EEA20421913D3F00E7122B /* Main */ = {
+		88EEA20B219279CF00E7122B /* Main */ = {
 			isa = PBXGroup;
 			children = (
 			);
