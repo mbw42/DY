@@ -95,6 +95,7 @@
 		8895EF2C21912CF70090DDC0 /* DY-DEMO */ = {
 			isa = PBXGroup;
 			children = (
+				88EEA21321927A8E00E7122B /* Classes */,
 				8895EF2D21912CF70090DDC0 /* AppDelegate.swift */,
 				8895EF3121912CF70090DDC0 /* Main.storyboard */,
 				8895EF3421912CF90090DDC0 /* Assets.xcassets */,
@@ -120,6 +121,61 @@
 				8895EF4F21912CFA0090DDC0 /* Info.plist */,
 			);
 			path = "DY-DEMOUITests";
+			sourceTree = "<group>";
+		};
+		88EEA21321927A8E00E7122B /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				88EEA21421927A8E00E7122B /* Home */,
+				88EEA21521927A8E00E7122B /* Tools */,
+				88EEA21621927A8E00E7122B /* Follow */,
+				88EEA21721927A8E00E7122B /* Profile */,
+				88EEA21821927A8E00E7122B /* Live */,
+				88EEA21921927A8E00E7122B /* Main */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		88EEA21421927A8E00E7122B /* Home */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		88EEA21521927A8E00E7122B /* Tools */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Tools;
+			sourceTree = "<group>";
+		};
+		88EEA21621927A8E00E7122B /* Follow */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Follow;
+			sourceTree = "<group>";
+		};
+		88EEA21721927A8E00E7122B /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		88EEA21821927A8E00E7122B /* Live */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Live;
+			sourceTree = "<group>";
+		};
+		88EEA21921927A8E00E7122B /* Main */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Main;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
